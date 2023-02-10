@@ -4,10 +4,10 @@
     "slug": "HealthyRecipes",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./Images/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./Images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
